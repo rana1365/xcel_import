@@ -29,7 +29,6 @@
                 <div class="card-body">
 
                     <form action="main_code.php" method="POST" enctype="multipart/form-data">
-
                         <input type="file" name="import_file" class="form-control" />
                         <button type="submit" name="save_excel_data" class="btn btn-primary mt-3">Import</button>
 
@@ -38,7 +37,7 @@
                 </div>
             </div>
         </div>
-    <div class="col-md-2"</div>
+    <div class="col-md-2"></div>
     </div>
 </div>
 
